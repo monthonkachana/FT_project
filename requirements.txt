@@ -1,0 +1,6 @@
+# Robot Framework Core
+robotframework>=6.0
+
+# Selenium Library for web automation
+robotframework-seleniumlibrary>=6.0.0
+selenium>=4.0.0
